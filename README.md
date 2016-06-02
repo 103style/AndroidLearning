@@ -1,4 +1,4 @@
 # AndroidLearning
-this is some demo what i had learned
+this is some test demo what i was learning.
 
 like RxJava  Retrofit Volley  and so on.
