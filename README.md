@@ -10,10 +10,6 @@ RxjavaAndRetrofitDemo https://github.com/103style/AndroidLearning/tree/master/Rx
 
 Tablayout With ViewPage  https://github.com/103style/AndroidLearning/tree/master/TablayoutWithViewpageDemo
 
-in this demo, it has a problem when fragment.setArguments(bundle).  i click the button ,but the value which the first fragment get is not changed.
-
-![image](https://github.com/103style/AndroidLearning/blob/master/gif/showTablayout.gif)
-
 MVPdemo   https://github.com/103style/AndroidLearning/tree/master/MVPdemo
 
 
