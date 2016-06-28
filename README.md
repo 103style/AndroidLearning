@@ -15,3 +15,6 @@ in this demo, it has a problem when fragment.setArguments(bundle).  i click the 
 ![image](https://github.com/103style/AndroidLearning/blob/master/gif/showTablayout.gif)
 
 MVPdemo   https://github.com/103style/AndroidLearning/tree/master/MVPdemo
+
+
+如何托管项目到github http://blog.csdn.net/lxk_1993/article/details/50441442
