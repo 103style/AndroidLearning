@@ -1,4 +1,6 @@
 
+###  APP 获取 MD， SHA1, SHA256信息
+
 * win + R  cmd 进入命令行
 
 * cd 切换到工程  xxx.keystore目录
