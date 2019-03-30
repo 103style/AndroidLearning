@@ -19,7 +19,7 @@ like RxJava  Retrofit Volley  and so on.
 
 * [git 配置 ssh](https://github.com/103style/AndroidLearning/blob/master/ssh/readme.md)
 
-* [apktools反编译apk](https://github.com/103style/Apktools)
+* [apktools反编译apk](https://github.com/103style/AndroidLearning/tree/master/apktool)
 
 * [获取应用的MD5,SHA1,SHA256信息](https://github.com/103style/AndroidLearning/blob/master/SHA256/readme.md)
 
