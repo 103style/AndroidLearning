@@ -13,3 +13,13 @@
   ```
 
 * 配置ssh。 生成的目录在 `C:\Users\用户名\.ssh`下，用notepad++打开然后copy密钥对到对应的ssh配置里。
+
+* 添加对应的公钥
+  ```
+  ssh-add ~/.ssh/id_rsa
+  ```
+  
+* 测试SSH链接
+  ```
+  ssh -T git@github.com
+  ```
