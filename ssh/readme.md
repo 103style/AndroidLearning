@@ -23,3 +23,19 @@
   ```
   ssh -T git@github.com
   ```
+
+----
+
+
+* 本地安装openssh
+  ```
+  brew install openssh
+  ```
+* 生成本地密钥
+  ```
+  ssh-keygen -t ed25519 -f ~/.ssh/id_ed25519 -C "your_email@example.com"
+  ```
+* 添加密钥到 ssh-agent：
+  ```
+  ssh-add ~/.ssh/id_ed25519
+  ```
